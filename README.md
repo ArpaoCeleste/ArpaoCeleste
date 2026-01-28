@@ -4,7 +4,6 @@
 
 ### Web & Mobile Developer Student
 
-
 </div>
 
 ---
@@ -26,6 +25,22 @@ I have experience in React, Node.js, PHP, SQL, and mobile development using Swif
 Sou estudante do Curso Técnico Superior Profissional em Desenvolvimento Web e Dispositivos Móveis (CTeSP), com experiência em desenvolvimento full stack.
 
 Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com SwiftUI e Ionic. Realizei também um estágio Erasmus+ focado em desenvolvimento frontend.
+
+</div>
+
+---
+
+<div align="center">
+
+### Featured Projects
+
+| Project | Live Demo | Repository | Tech Stack |
+|---------|-----------|------------|------------|
+| **Gym Management System** | [Demo](https://gym-pwa-three.vercel.app/) | [Repository](https://github.com/lou-spec/gym) | React, Node.js, MongoDB |
+| **Sapos Salas** | [Demo](https://sapossalas.rf.gd/?i=1) | [Repository](https://github.com/ArpaoCeleste/sapossalas) | PHP, SQL |
+| **XML Reservation System** | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
+| **Player Page** | [Demo](https://marianaqueiros.pt/) | [Repository](https://github.com/ArpaoCeleste/playerpage) | React, Next.js |
+| **PC Build Configurator** | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/lou-spec/empresa) | PHP, MySQL |
 
 </div>
 
@@ -88,11 +103,9 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 <br>
 
 ### Connect with Me
+
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 **Location:** Santo Tirso, Porto, Portugal
-<br>
-<br>
-
 
 </div>
