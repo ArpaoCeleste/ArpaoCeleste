@@ -14,9 +14,7 @@
 ### About Me
 I am a CTeSP Student in the Professional Higher Technical Course in Web and Mobile Device Development with experience in full stack development.
 
-I have experience in React, Node.js, PHP, SQL, and mobile development using SwiftUI and Ionic. 
-<br>
-I also completed an Erasmus+ internship focused on frontend development.
+I have experience in React, Node.js, PHP, SQL, and mobile development using SwiftUI and Ionic.I also completed an Erasmus+ internship focused on frontend development.
 
 </div>
 
@@ -27,9 +25,7 @@ I also completed an Erasmus+ internship focused on frontend development.
 ### Sobre Mim
 Sou estudante do Curso Técnico Superior Profissional em Desenvolvimento Web e Dispositivos Móveis (CTeSP), com experiência em desenvolvimento full stack.
 
-Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com SwiftUI e Ionic. 
-<br>
-Realizei também um estágio Erasmus+ focado em desenvolvimento frontend.
+Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com SwiftUI e Ionic.Realizei também um estágio Erasmus+ focado em desenvolvimento frontend.
 
 </div>
 
