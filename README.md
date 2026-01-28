@@ -98,8 +98,18 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArpaoCeleste&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaoCeleste&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpaoCeleste&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaoCeleste&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpaoCeleste&theme=dracula&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpaoCeleste&theme=dracula&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
 
 <br>
 
