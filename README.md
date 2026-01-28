@@ -34,14 +34,14 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 
 ### Featured Projects
 
-| Project | Live Demo | Repository | Tech Stack |
-|---------|-----------|------------|------------|
-| **Gym Management System** | [Demo](https://gym-pwa-three.vercel.app/) | [Repository](https://github.com/lou-spec/gym) | React, Node.js, MongoDB |
-| **Sapos Salas** | [Demo](https://sapossalas.rf.gd/?i=1) | [Repository](https://github.com/ArpaoCeleste/sapossalas) | PHP, SQL |
-| **Sapos Salas API Docs** | - | [Repository](https://github.com/ArpaoCeleste/saposalas-api-docs) | API Documentation |
-| **XML Reservation System** | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
-| **Player Page** | [Demo](https://marianaqueiros.pt/) | [Repository](https://github.com/ArpaoCeleste/playerpage) | React, Next.js |
-| **PC Build Configurator** | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/lou-spec/empresa) | PHP, MySQL |
+| Project | Description | Live Demo | Repository | Tech Stack |
+|---------|-------------|-----------|------------|------------|
+| **Gym Management System** | Full-stack fitness management platform with workout planning and user management | [Demo](https://gym-pwa-three.vercel.app/) | [Repository](https://github.com/lou-spec/gym) | React, Node.js, MongoDB |
+| **Sapos Salas** | Secure room booking system with authentication and access control | [Demo](https://sapossalas.rf.gd/?i=1) | [Repository](https://github.com/ArpaoCeleste/sapossalas) | PHP, SQL |
+| **Sapos Salas API Docs** | RESTful API documentation for the Sapos Salas system | - | [Repository](https://github.com/ArpaoCeleste/saposalas-api-docs) | API Documentation |
+| **XML Reservation System** | Data structuring project using XML and XQuery for hotel reservations | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
+| **Player Page** | Personal portfolio website for a professional football player | [Demo](https://marianaqueiros.pt/) | [Repository](https://github.com/ArpaoCeleste/playerpage) | PHP |
+| **PC Build Configurator** | Interactive PC component selection and configuration system | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/lou-spec/empresa) | PHP, MySQL |
 
 </div>
 
