@@ -38,6 +38,7 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 |---------|-----------|------------|------------|
 | **Gym Management System** | [Demo](https://gym-pwa-three.vercel.app/) | [Repository](https://github.com/lou-spec/gym) | React, Node.js, MongoDB |
 | **Sapos Salas** | [Demo](https://sapossalas.rf.gd/?i=1) | [Repository](https://github.com/ArpaoCeleste/sapossalas) | PHP, SQL |
+| **Sapos Salas API Docs** | - | [Repository](https://github.com/ArpaoCeleste/saposalas-api-docs) | API Documentation |
 | **XML Reservation System** | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
 | **Player Page** | [Demo](https://marianaqueiros.pt/) | [Repository](https://github.com/ArpaoCeleste/playerpage) | React, Next.js |
 | **PC Build Configurator** | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/lou-spec/empresa) | PHP, MySQL |
