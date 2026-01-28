@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Nerpatime (ArpaoCeleste) 👋
+# Hi there, I'm Nerpatime (ArpaoCeleste)
 
 ### Web & Mobile Developer Student
 
 <p>
-  <a href="#english">🇺🇸 English</a>
+  <a href="#english">English</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#portuguese">🇵🇹 Português</a>
+  <a href="#portuguese">Português</a>
 </p>
 
 </div>
@@ -16,10 +16,10 @@
 
 <div id="english" align="center">
 
-### 🇺🇸 About Me
-I am currently enrolled in the **Professional Higher Technical Course in Web and Mobile Device Development (CTeSP)**. 
+### About Me
+I am a CTeSP Student in the Professional Higher Technical Course in Web and Mobile Device Development with experience in full stack development.
 
-Passionate about **Full Stack Development**, I am building my skills in creating seamless web and mobile experiences using modern frameworks and robust backend solutions. My academic journey focuses on software engineering principles and real-world application.
+I have experience in React, Node.js, PHP, SQL, and mobile development using SwiftUI and Ionic. I also completed an Erasmus+ internship focused on frontend development.
 
 </div>
 
@@ -27,10 +27,10 @@ Passionate about **Full Stack Development**, I am building my skills in creating
 
 <div id="portuguese" align="center">
 
-### 🇵🇹 Sobre Mim
-Sou estudante do **Curso Técnico Superior Profissional em Desenvolvimento Web e Dispositivos Móveis**.
+### Sobre Mim
+Sou estudante do Curso Técnico Superior Profissional em Desenvolvimento Web e Dispositivos Móveis (CTeSP), com experiência em desenvolvimento full stack.
 
-Apaixonado por **Desenvolvimento Full Stack**, estou a desenvolver as minhas competências na criação de experiências web e móveis fluídas, utilizando frameworks modernos e soluções de backend robustas. O meu percurso académico foca-se em princípios de engenharia de software e aplicação prática.
+Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com SwiftUI e Ionic. Realizei também um estágio Erasmus+ focado em desenvolvimento frontend.
 
 </div>
 
@@ -38,40 +38,61 @@ Apaixonado por **Desenvolvimento Full Stack**, estou a desenvolver as minhas com
 
 <div align="center">
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
+
+**Frontend Frameworks & Libraries**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+
+**Mobile Development**
+<br>
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+
+**Backend & Runtime**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 
-**Web & Mobile Frameworks**
+**Tools & Other**
 <br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-**Backend & Tools**
-<br>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArpaoCeleste&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaoCeleste&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 
 <br>
 
-### 📫 Connect with Me / Contacto
+### Connect with Me
 
 📍 **Location:** Portugal
 <br>
