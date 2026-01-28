@@ -42,7 +42,7 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 | **Sapos Salas API Docs** | RESTful API documentation for the Sapos Salas system | [Demo](https://arpaoceleste.github.io/saposalas-api-docs/) | [Repository](https://github.com/ArpaoCeleste/saposalas-api-docs) | API Documentation |
 | **XML Reservation System** | Data structuring project using XML and XQuery for hotel reservations | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
 | **Player Page** | Personal portfolio website for a professional football player | [Demo](https://marianaqueiros.pt/) | [Repository](https://github.com/ArpaoCeleste/playerpage) | PHP |
-| **PC Build Configurator** | Interactive PC component selection and configuration system | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/ArpaoCeleste/empresa) | PHP, MySQL |
+| **PC Build Configurator** | Interactive PC component selection and configuration system | [Demo](https://pcbuild.infinityfree.me/?i=1) | [Repository](https://github.com/lou-spec/empresa) | PHP, MySQL |
 
 </div>
 
