@@ -113,7 +113,10 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 **Location:** Santo Tirso, Porto, Portugal
+
 <br>
+<br>
+
 Last updated: January 2026 
 </div>
 
