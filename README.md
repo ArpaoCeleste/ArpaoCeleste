@@ -37,6 +37,7 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 | Project | Description | Live Demo | Repository | Tech Stack |
 |---------|-------------|-----------|------------|------------|
 | **Gym Management System** | Full-stack fitness management platform with workout planning and user management | [Demo](https://gym-pwa-three.vercel.app/) | [Repository](https://github.com/lou-spec/gym) | React, Node.js, MongoDB |
+| **Book Searcher** | Mobile application for searching and browsing books with detailed information | - | [Repository](https://github.com/ArpaoCeleste/book-searcher) | Ionic, Angular |
 | **Sapos Salas** | Secure room booking system with authentication and access control | [Demo](https://sapossalas.rf.gd/?i=1) | [Repository](https://github.com/ArpaoCeleste/sapossalas) | PHP, SQL |
 | **Sapos Salas API Docs** | RESTful API documentation for the Sapos Salas system | [Demo](https://arpaoceleste.github.io/saposalas-api-docs/) | [Repository](https://github.com/ArpaoCeleste/saposalas-api-docs) | API Documentation |
 | **XML Reservation System** | Data structuring project using XML and XQuery for hotel reservations | [Demo](https://xml-eight.vercel.app/) | [Repository](https://github.com/ArpaoCeleste/xml) | XML, XQuery, BaseX |
@@ -120,5 +121,3 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 
 Last updated: January 2026 
 </div>
-
-
