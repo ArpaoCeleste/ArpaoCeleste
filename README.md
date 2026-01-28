@@ -115,7 +115,7 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 **Location:** Santo Tirso, Porto, Portugal
 
 <br>
-<br>
+
 
 Last updated: January 2026 
 </div>
