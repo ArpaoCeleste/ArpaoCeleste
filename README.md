@@ -4,11 +4,6 @@
 
 ### Web & Mobile Developer Student
 
-<p>
-  <a href="#english">English</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#portuguese">Português</a>
-</p>
 
 </div>
 
