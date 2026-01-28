@@ -100,10 +100,9 @@ Tenho experiência em React, Node.js, PHP, SQL e desenvolvimento móvel com Swif
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArpaoCeleste&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaoCeleste&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
-<br>
-  <img src="https://streak-stats.demolab.com/?user=ArpaoCeleste&theme=dracula&hide_border=true" alt="streak stats" />
+
+
 </div>
 
 
